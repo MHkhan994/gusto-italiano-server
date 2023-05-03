@@ -3,48 +3,54 @@
         "picture": "https://i.ibb.co/S3KxrcK/chef-1.jpg",
         "name": "Marco Lombardi",
         "experience": "7",
-        "recipes": "3",
+        "recipes": "9",
         "likes": "467",
-        "chef_id": "Marco Lombardi"
+        "chef_id": "Marco Lombardi",
+        "bio": "Marco Lombardi is an experienced chef with a passion for using fresh, seasonal ingredients. He began his career in a small trattoria in Rome, Italy, and has since worked in some of the world's most prestigious restaurants. With a focus on sustainability and ethical sourcing, he creates unique dishes that are both delicious and environmentally responsible. Marco's commitment to quality has earned him a loyal following of food lovers around the globe."
     },
     {
-        "picture": "https://i.ibb.co/9VJtbGG/chef-2.jpg",
+        "picture": "https://i.ibb.co/74LgdRB/shef-2.jpg",
         "name": "Giovanni Rossi",
         "experience": "12",
-        "recipes": "4",
+        "recipes": "15",
         "likes": "982",
-        "chef_id": "Giovanni Rossi"
+        "chef_id": "Giovanni Rossi",
+        "bio": "Giovanni Rossi is a talented chef with a lifelong love for cooking. Born and raised in a small town in Tuscany, Italy, he learned the art of traditional Italian cooking from his grandmother at a young age. He later honed his skills by working in various kitchens throughout Italy and Europe, developing a passion for using fresh, locally sourced ingredients.Giovanni's culinary style combines classic Italian techniques with innovative twists, resulting in unique and flavorful dishes. He has gained a reputation for his attention to detail and ability to create visually stunning presentations that showcase the beauty of his ingredients."
     },
     {
-        "picture": "https://i.ibb.co/JmLsLy1/chef-3.jpg",
+        "picture": "https://i.ibb.co/BKPd013/chef-3.jpg",
         "name": "Luigi Verdi",
         "experience": "9",
-        "recipes": "3",
+        "recipes": "8",
         "likes": "754",
-        "chef_id": "Luigi Verdi"
+        "chef_id": "Luigi Verdi",
+        "bio": "Luigi Verdi is a dynamic chef with a passion for Italian cuisine. Born and raised in Naples, Italy, he was immersed in the rich culinary traditions of the region from an early age. After completing culinary school, Luigi honed his skills in several prestigious kitchens throughout Italy before moving to the United States to further his career.He draws inspiration from his Italian heritage, infusing classic flavors with modern techniques to create unique and memorable dishes."
     },
     {
-        "picture": "https://i.ibb.co/7JgCCkR/chef-4.jpg",
+        "picture": "https://i.ibb.co/yypWs2Z/chef-4.jpg",
         "name": "Antonio Bianchi",
         "experience": "5",
         "recipes": "3",
         "likes": "1378",
-        "chef_id": "Antonio Bianchi"
+        "chef_id": "Antonio Bianchi",
+        "bio": "Antonio Bianchi is a talented chef known for his creative approach to Italian cuisine. Born and raised in Florence, Italy, he developed a love for cooking at a young age, spending much of his time in the kitchen with his grandmother. After attending culinary school, Antonio honed his skills in some of the top restaurants in Italy and France.His passion and dedication have earned him a loyal following of food lovers from around the world, and he continues to delight diners with his exceptional dishes."
     },
     {
-        "picture": "https://i.ibb.co/Mksymzy/chef-5.jpg",
+        "picture": "https://i.ibb.co/6PFWYKv/chef-5.jpg",
         "name": "Riccardo Ferrari",
         "experience": "11",
-        "recipes": "4",
+        "recipes": "7",
         "likes": "893",
-        "chef_id": "Riccardo Ferrari"
+        "chef_id": "Riccardo Ferrari",
+        "bio": "Riccardo Ferrari is a highly skilled chef with a passion for creating exceptional Italian cuisine. Growing up in Milan, Italy, he developed a love for cooking at a young age, often experimenting with new ingredients and techniques in his family's kitchen. After completing culinary school, Riccardo trained under some of the most renowned chefs in Italy, refining his skills and expanding his culinary repertoire.Riccardo's dedication to his craft has earned him numerous accolades and awards, and he continues to inspire and delight diners with his exceptional cuisine."
     },
     {
         "picture": "https://i.ibb.co/RgvkH6n/chef-6.jpg",
         "name": "Simone Russo",
         "experience": "8",
-        "recipes": "5",
+        "recipes": "10",
         "likes": "612",
-        "chef_id": "Simone Russo"
+        "chef_id": "Simone Russo",
+        "bio": "Simone Russo is a talented chef with a passion for using fresh, seasonal ingredients to create dishes that showcase the flavors of his native Italy. Born and raised in Naples, he grew up surrounded by the vibrant and diverse culinary traditions of the region. After completing culinary school, Simone worked in several renowned kitchens throughout Italy before moving to the United States to further his career.Simone's dedication to his craft has earned him numerous accolades and awards, and he continues to push the boundaries of Italian cuisine with his innovative creations."
     }
 ]

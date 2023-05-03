@@ -1,0 +1,178 @@
+[
+    {
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-mixed-ingredients-white-plate_114579-15091.jpg?w=740&t=st=1683139021~exp=1683139621~hmac=6d8acda1750117117669e7795dbc8a749e88027453336735860db6f8b5d97a59",
+        "recipe_name": "Spaghetti alla Carbonara",
+        "ingredients": "Spaghetti,Pancetta, Eggs,Parmesan cheese,Black pepper",
+        "cooking_method": "Cook the spaghetti according to package instructions. Meanwhile, cook the pancetta in a pan until crispy. Beat the eggs and mix in the Parmesan cheese and black pepper. Drain the spaghetti and add it to the pan with the pancetta. Turn off the heat and add the egg mixture, stirring constantly until the sauce thickens.",
+        "rating": 4.8,
+        "chef_id": "Giovanni Rossi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=740&t=st=1683139056~exp=1683139656~hmac=e3b315c1e0dd5d35195b3625891a0d2e2263748d2a6a985fbbe39e72872664fa",
+        "recipe_name": "Margherita Pizza",
+        "ingredients": "Pizza dough,Tomato sauce,Mozzarella cheese,Fresh basil,Olive oil",
+        "cooking_method": "Preheat the oven to 450°F. Roll out the pizza dough and place it on a baking sheet. Spread the tomato sauce over the dough and top with the mozzarella cheese. Bake for 10-12 minutes or until the crust is golden brown. Remove from the oven and top with fresh basil and a drizzle of olive oil.",
+        "rating": 4.7,
+        "chef_id": "Marco Lombardi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?w=740&t=st=1683139091~exp=1683139691~hmac=3870e38d46467e127e4cb83a155e51edd45c918c5edcf7b83e74605dc892a218",
+        "recipe_name": "Lasagne al Forno",
+        "ingredients": "Lasagna noodles, Ground beef, Tomato sauce, Ricotta cheese, Mozzarella cheese",
+        "cooking_method": "Cook the lasagne noodles according to package instructions. Meanwhile, brown the ground beef in a pan and add the tomato sauce. In a separate bowl, mix together the ricotta cheese and Parmesan cheese. In a 9x13 inch baking dish, layer the noodles, meat sauce, and cheese mixture. Repeat until all ingredients are used, ending with a layer of meat sauce. Top with mozzarella cheese. Cover with foil and bake at 375°F for 25 minutes. Remove the foil and bake for an additional 25 minutes or until the cheese is golden brown.",
+        "rating": 4.9,
+        "chef_id": "Giovanni Rossi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/roasted-grilled-beef-liver-with-onion-tomatoes-salad_2829-10732.jpg?w=740&t=st=1683139125~exp=1683139725~hmac=898f5de18f7e2abe144c76ee08f22720c47b9861799fac726191726dae7d5d7d",
+        "recipe_name": "Osso Buco",
+        "ingredients": "Veal shanks, Carrots, Celery, Onion, Tomatoes",
+        "cooking_method": "Heat olive oil in a large pot over medium heat. Season the veal shanks with salt and pepper, and brown them on both sides in the pot. Remove the shanks from the pot and set them aside. Add the onion, carrot, and celery to the pot and cook until the vegetables are tender. Add the tomato paste and stir until combined. Add the shanks back to the pot and pour in enough beef stock to cover the shanks. Bring to a boil, reduce heat, and simmer for 2-3 hours or until the meat is tender and falls off the bone.",
+        "rating": 4.6,
+        "chef_id": "Marco Lombardi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-traditional-caprese-salad-ingredients-mediterranean-organic-natural-food-concept_1150-44847.jpg?w=740&t=st=1683139173~exp=1683139773~hmac=5273dae18c7e58838fdd6de5bb436bbddb35c612d0f898f25c4e8db769eb36f3",
+        "recipe_name": "Caprese Salad",
+        "ingredients": "Tomatoes, Mozzarella cheese, Basil leaves, Olive oil, Balsamic vinegar",
+        "cooking_method": "Slice the tomatoes and mozzarella cheese into equal sized rounds. Layer the tomatoes, mozzarella cheese, and fresh basil on a plate. Drizzle with olive oil and balsamic vinegar. Season with salt and pepper to taste.",
+        "rating": 4.4,
+        "chef_id": "Simone Russo"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/mushroom-risotto-garnished-with-grated-parmesan-parsley_141793-1932.jpg?w=740&t=st=1683139213~exp=1683139813~hmac=4c4c2b569e566295d20e4d3b2950e926ba1ea413e378236a20a1a573dd1f6e35",
+        "recipe_name": "Risotto alla Milanese",
+        "ingredients": "Arborio rice, Chicken broth, White wine, Parmesan cheese, Butter",
+        "cooking_method": "Heat the chicken broth in a pot and add the saffron threads. Keep the broth warm on low heat. In a separate pot, sauté the onion in butter until it is soft. Add the Arborio rice and stir until coated in the butter. Add a ladleful of the warm broth to the rice and stir until the liquid is absorbed. Continue adding the broth, one ladleful at a time, and stirring until the rice is tender and the mixture is creamy. Stir in the Parmesan cheese and season with salt and pepper to taste.",
+        "rating": 4.8,
+        "chef_id": "Giovanni Rossi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/delicious-rice-chicken-meat-patties-with-garlic-tomato-sauce_2829-11012.jpg?w=740&t=st=1683139249~exp=1683139849~hmac=574037e6875e8a03657f5d8d0529ccd139f8e5d3b994c8d0fc991abe0890313f",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": "Chicken breasts, Bread crumbs, Tomato sauce, Mozzarella cheese, Parmesan cheese",
+        "cooking_method": "Preheat the oven to 375°F. Beat the eggs in a shallow bowl. Dip the chicken breasts in the egg mixture and coat in bread crumbs. Fry the chicken breasts in a pan until golden brown. Place the chicken breasts in a baking dish and cover with tomato sauce and mozzarella cheese. Bake for 20-25 minutes or until the cheese is golden brown.",
+        "rating": 4.7,
+        "chef_id": "Simone Russo"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5842.jpg?w=740&t=st=1683139315~exp=1683139915~hmac=7bbe2fcba32cb7bad3d35b3a962868111e1281fd04e332305fab73b6661af9dd",
+        "recipe_name": "Pesto Pasta",
+        "ingredients": "Basil, Pine nuts, Garlic, Olive oil, Parmesan cheese",
+        "cooking_method": "Cook the pasta according to package instructions. In a food processor, combine the basil leaves, garlic, and pine nuts. Pulse until coarsely chopped. With the motor running, gradually add the olive oil until the mixture is smooth. Toss the pesto sauce with the cooked pasta and serve.",
+        "rating": 4.5,
+        "chef_id": "Simone Russo"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/high-angle-delicious-tiramisu_23-2148531566.jpg?w=740&t=st=1683139362~exp=1683139962~hmac=e31590ab943f64ab92e3070f1c8753c866c8f4e7934cc375362318a7e629a717",
+        "recipe_name": "Tiramisu",
+        "ingredients": "Ladyfingers, Mascarpone cheese, Eggs, Sugar, Coffee",
+        "cooking_method": "Brew a cup of espresso and let it cool. Beat the egg yolks and sugar together in a bowl until light and fluffy. Add the mascarpone cheese to the bowl and mix until well combined. In a separate bowl, beat the egg whites until stiff peaks form. Fold the egg whites into the mascarpone mixture. Dip the ladyfingers into the cooled espresso and layer them in the bottom of a serving dish. Spread a layer of the mascarpone mixture on top of the ladyfingers. Repeat the layers, ending with a layer of the mascarpone mixture. Cover the dish with plastic wrap and refrigerate for at least 2 hours. Before serving, sprinkle cocoa powder on top of the tiramisu.",
+        "rating": 4.9,
+        "chef_id": "Riccardo Ferrari"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/spaghetti-with-mixed-ingredients-white-plate_114579-15091.jpg?w=740&t=st=1683139399~exp=1683139999~hmac=2b965b9897f68ccf0a5e032e732c786cb0cb8059d8255cf6f8f933fa415acc41",
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": "Spaghetti, Pancetta, Eggs, Parmesan cheese, Black pepper",
+        "cooking_method": "Cook the spaghetti according to package instructions. In a pan, cook the bacon until crispy. In a bowl, whisk together the eggs, Parmesan cheese, and black pepper. Drain the spaghetti and immediately add it to the pan with the bacon. Pour the egg mixture over the spaghetti and bacon and stir until the eggs are cooked and the mixture is creamy.",
+        "rating": 4.6,
+        "chef_id": "Giovanni Rossi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/tasty-bruschetta-with-tomatoes-basil_1220-7130.jpg?w=740&t=st=1683139444~exp=1683140044~hmac=3da05c68b7ded655de43fcfba94bc41b5aca15dcf2be6cf06b93642e50e1249f",
+        "recipe_name": "Bruschetta",
+        "ingredients": "Tomatoes, Garlic, Basil, Olive oil, Balsamic vinegar",
+        "cooking_method": "Preheat the oven to 375°F. Slice the baguette into thin rounds and place on a baking sheet. Drizzle the rounds with olive oil and bake for 10 minutes or until crispy. In a bowl, combine chopped tomatoes, minced garlic, chopped basil leaves, and a drizzle of olive oil. Top the toasted baguette rounds with the tomato mixture and serve.",
+        "rating": 4.3,
+        "chef_id": "Simone Russo"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon_114579-3083.jpg?w=740&t=st=1683139488~exp=1683140088~hmac=9aef0c83a26108a68608e51717e73b24bbc286d4ef831d4727e6f34d58584454",
+        "recipe_name": "Minestrone Soup",
+        "ingredients": "Vegetable broth, Carrots, Celery, Tomatoes, Kidney beans",
+        "cooking_method": "In a pot, bring the vegetable broth to a boil. Add diced tomatoes, sliced carrots, sliced celery, and sliced zucchini. Simmer for 20-30 minutes or until the vegetables are tender. Season with salt and pepper to taste.",
+        "rating": 4.2,
+        "chef_id": "Riccardo Ferrari"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/top-view-tomato-sauce-with-garlic-pasta-wooden-plank_23-2147922508.jpg?w=740&t=st=1683139521~exp=1683140121~hmac=2b758401722ea4f31756ed0bc3dab810f5deb72782db4240f4c9a202f6fd1609",
+        "recipe_name": "Bolognese Sauce",
+        "ingredients": "Ground beef,Onion,Garlic,Tomato sauce,Red wine",
+        "cooking_method": "In a pan, brown the ground beef. Add the onion and garlic and sauté until the onion is translucent. Pour in the tomato sauce and red wine. Simmer for 1-2 hours or until the sauce has thickened.",
+        "rating": 4.7,
+        "chef_id": "Simone Russo"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=740&t=st=1683139569~exp=1683140169~hmac=8e8cf1a678d0929c79ae9ad31fce4148cdc5ff9efdd1dddf59d739dff0f1049f",
+        "recipe_name": "Pizza Margherita",
+        "ingredients": "Pizza dough, Tomato sauce, Mozzarella cheese, Basil leaves",
+        "cooking_method": "Preheat the oven to 450°F. Roll out the pizza dough on a floured surface. Spread the tomato sauce on top of the dough, leaving a small border around the edges. Top with mozzarella cheese and torn basil leaves. Drizzle with olive oil. Bake for 12-15 minutes or until the crust is golden brown.",
+        "rating": 4.4,
+        "chef_id": "Riccardo Ferrari"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/top-view-seafood-spaghetti-with-mussels-shrimp-tomato-sauce-parsley_141793-2167.jpg?w=740&t=st=1683139606~exp=1683140206~hmac=ac1880af5cfa1f04ee3091f76f630fc9b8729831829aad3f2d4952725f051aac",
+        "recipe_name": "Linguine with Clam Sauce",
+        "ingredients": "Linguine,Clams,Garlic,Whitewine,Olive oil",
+        "cooking_method": "Cook the linguine according to package instructions. In a pan, sauté minced garlic in olive oil until fragrant. Add the clams and white wine. Cover and simmer until the clams open. Discard any clams that do not open. Toss the linguine with the clam sauce and serve.",
+        "rating": 4.5,
+        "chef_id": "Antonio Bianchi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/meat-with-mushroom-cream-sauce_155003-374.jpg?w=740&t=st=1683139646~exp=1683140246~hmac=51a35530bcf099d4f2284349d7db681d2822019f77038dc81227900efb7f412d",
+        "recipe_name": "Osso Buco",
+        "ingredients": "Veal shanks, Carrots, Celery, Onion, Tomatoes",
+        "cooking_method": "Season the veal shanks with salt and pepper. Brown the shanks in a pan. In a separate pan, sauté diced onion, carrots, and celery until tender. Add tomato paste and a cup of water to the pan with the vegetables. Transfer the veal shanks to the pan with the vegetables. Cover and simmer for 2-3 hours or until the meat is tender and falls off the bone.",
+        "rating": 4.8,
+        "chef_id": "Luigi Verdi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/guacamole-home-bowl_1220-262.jpg?w=740&t=st=1683139678~exp=1683140278~hmac=440e9508c7d5ea095d1f28b962f94a863e73440eee7ff28a6d2f926d791bd815",
+        "recipe_name": "Pesto",
+        "ingredients": "Basil, Pine nuts, Garlic, Olive oil, Parmesan cheese",
+        "cooking_method": "In a food processor, blend basil leaves, pine nuts, and garlic until finely chopped. Slowly add olive oil while the food processor is running until the mixture is smooth. Stir in Parmesan cheese.",
+        "rating": 4.1,
+        "chef_id": "Antonio Bianchi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/bolognese-pasta-with-parmesan_181624-21873.jpg?t=st=1683139719~exp=1683140319~hmac=f3086612a1f114d96fc2a5040dfcd8e4377876eee3f089c9f11add7c6b4fbd25",
+        "recipe_name": "Risotto",
+        "ingredients": "Arborio rice, Chicken broth, White wine, Parmesan cheese, Butter",
+        "cooking_method": "In a pot, sauté diced onion in olive oil until translucent. Add Arborio rice and cook for 1-2 minutes. Add white wine and stir until the wine is absorbed. Add chicken broth, one ladle at a time, stirring constantly until each ladleful is absorbed before adding the next. Continue until the rice is tender and the mixture is creamy. Stir in Parmesan cheese.",
+        "rating": 4.7,
+        "chef_id": "Luigi Verdi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/side-close-up-view-chicken-herbs-plate-chicken-legs-with-lemon-herbs-dark-background_140725-110402.jpg?w=740&t=st=1683139826~exp=1683140426~hmac=ab86dd388f67ec9e7a5487b1b9921e6e46aa0be093c4a24abd77a52094a0c1a3",
+        "recipe_name": "Chicken Piccata",
+        "ingredients": "Chicken breasts,Flour,Lemon juice,Chicken broth,Capers",
+        "cooking_method": "Pound the chicken breasts to an even thickness. Dredge the chicken in flour. In a pan, sauté the chicken in olive oil until cooked through. Remove the chicken from the pan and set aside. Add lemon juice and chicken broth to the pan. Stir in capers. Simmer until the sauce thickens. Serve the chicken with the sauce spooned over the top.",
+        "rating": 4.5,
+        "chef_id": "Antonio Bianchi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/carbonara_74190-260.jpg?t=st=1683139853~exp=1683140453~hmac=02e8b67c81db8cc68f4ca0dfb5c0eeb93b76109b8032f9c58ff75dfe034bbc01",
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": "Fettuccine,Heavy cream,Butter,Parmesan cheese,Garlic",
+        "cooking_method": "Cook the fettuccine according to package instructions. In a pan, melt butter and minced garlic. Add heavy cream and simmer until the mixture thickens. Stir in grated Parmesan cheese. Drain the fettuccine and add it to the pan with the sauce. Toss until the fettuccine is coated in the sauce.",
+        "rating": 4.4,
+        "chef_id": "Riccardo Ferrari"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/italian-caprese-salad-with-tomatoes-basil-mozzarella-olives-olive-oil-wooden-board-italian-traditional-caprese-salad-ingredients-mediterranean-organic-natural-food-concept_1150-44847.jpg?w=740&t=st=1683140051~exp=1683140651~hmac=384b2c8bb00defa60c764f029d619741411571273d1116829688e7a39f5af127",
+        "recipe_name": "Caprese Salad",
+        "ingredients": "Tomatoes,Mozzarella cheese,Basil leaves,Olive oil,Balsamic vinegar",
+        "cooking_method": "Slice the tomatoes and mozzarella cheese. Arrange them on a plate, alternating between the tomato and cheese slices. Top with fresh basil leaves. Drizzle olive oil and balsamic vinegar over the top.",
+        "rating": 4.2,
+        "chef_id": "Luigi Verdi"
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/fried-tofu-chili-salt_1339-4743.jpg?w=740&t=st=1683140085~exp=1683140685~hmac=10ef498f6eb609f4ced744b4c1cd2d6d415297595e22b1e2044e952bd7286560",
+        "recipe_name": "Saltimbocca",
+        "ingredients": "Veal cutlets,Prosciutto,Sage leaves,Flour,White wine",
+        "cooking_method": "Place a slice of prosciutto and a sage leaf on each veal cutlet. Secure with a toothpick. Dredge the veal in flour. In a pan, sauté the veal until browned on both sides. Add white wine and simmer until the sauce has thickened.",
+        "rating": 4.9,
+        "chef_id": "Marco Lombardi"
+    }
+]

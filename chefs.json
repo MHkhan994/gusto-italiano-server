@@ -1,0 +1,50 @@
+[
+    {
+        "picture": "https://i.ibb.co/S3KxrcK/chef-1.jpg",
+        "name": "Marco Lombardi",
+        "experience": "7",
+        "recipes": "3",
+        "likes": "467",
+        "chef_id": "Marco Lombardi"
+    },
+    {
+        "picture": "https://i.ibb.co/9VJtbGG/chef-2.jpg",
+        "name": "Giovanni Rossi",
+        "experience": "12",
+        "recipes": "4",
+        "likes": "982",
+        "chef_id": "Giovanni Rossi"
+    },
+    {
+        "picture": "https://i.ibb.co/JmLsLy1/chef-3.jpg",
+        "name": "Luigi Verdi",
+        "experience": "9",
+        "recipes": "3",
+        "likes": "754",
+        "chef_id": "Luigi Verdi"
+    },
+    {
+        "picture": "https://i.ibb.co/7JgCCkR/chef-4.jpg",
+        "name": "Antonio Bianchi",
+        "experience": "5",
+        "recipes": "3",
+        "likes": "1378",
+        "chef_id": "Antonio Bianchi"
+    },
+    {
+        "picture": "https://i.ibb.co/Mksymzy/chef-5.jpg",
+        "name": "Riccardo Ferrari",
+        "experience": "11",
+        "recipes": "4",
+        "likes": "893",
+        "chef_id": "Riccardo Ferrari"
+    },
+    {
+        "picture": "https://i.ibb.co/RgvkH6n/chef-6.jpg",
+        "name": "Simone Russo",
+        "experience": "8",
+        "recipes": "5",
+        "likes": "612",
+        "chef_id": "Simone Russo"
+    }
+]

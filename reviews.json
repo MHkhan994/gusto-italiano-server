@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Samantha Smith",
+        "review": "Gusto Italiano is hands down the best Italian restaurant in town! The food is always fresh and flavorful, and the staff is friendly and attentive. I highly recommend the spaghetti carbonara.",
+        "rating": 5,
+        "date": "2022-04-15",
+        "image": "https://i.ibb.co/7p5PtjZ/pexels-irina-iriser-1800456.jpg"
+    },
+    {
+        "name": "Alex Rodriguez",
+        "review": "If you're looking for delicious Italian food, look no further than Gusto Italiano! The pizza here is amazing, with a perfectly crispy crust and a generous amount of toppings. I also love the cozy atmosphere of the restaurant.",
+        "rating": 4.5,
+        "date": "2022-03-22",
+        "image": "https://i.ibb.co/BfgNKVh/pexels-creation-hill-1681010.jpg"
+    },
+    {
+        "name": "Kim Nguyen",
+        "review": "I had an amazing experience at Gusto Italiano! The lasagna was to die for, and the service was excellent. The waitstaff was friendly and accommodating, and they made sure we had everything we needed. I will definitely be coming back soon.",
+        "rating": 5,
+        "date": "2022-02-17",
+        "image": "https://i.ibb.co/7X6Xx4Y/pexels-nitin-khajotia-1516680.jpg"
+    },
+    {
+        "name": "Jacob Brown",
+        "review": "I've been to Gusto Italiano a few times now, and each time the food has been exceptional. The pasta dishes are always perfectly cooked, and the sauces are rich and flavorful. I highly recommend the fettuccine alfredo!",
+        "rating": 4.8,
+        "date": "2022-01-08",
+        "image": "https://i.ibb.co/X3tfq1B/pexels-pixabay-220453.jpg"
+    },
+    {
+        "name": "Karen Davis",
+        "review": "I can't say enough good things about Gusto Italiano! The food is amazing, the atmosphere is cozy and romantic, and the service is impeccable. I highly recommend the tiramisu for dessert!",
+        "rating": 5,
+        "date": "2021-12-03",
+        "image": "https://i.ibb.co/CVLMWdm/pexels-andrea-piacquadio-712513.jpg"
+    }
+]
